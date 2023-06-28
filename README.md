@@ -17,6 +17,6 @@ An app to learn French built with Python (imports: tkinter, pandas)
 
 ## ⚙️ Setting up
 
-1. Download the repo using `https://github.com/dawidj126/FrenchFlashcards.git` in your terminal or directly from github page in zip format.
+1. Download the repo using `git clone https://github.com/dawidj126/FrenchFlashcards.git` in your terminal or directly from github page in zip format.
 2. Run venv by typing `.\venv\Scripts\activate` in your terminal.
 3. Now you are able to run `python .\main.py`
